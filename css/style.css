@@ -1,0 +1,26 @@
+body, h1, h2, h3, h4, h5 {
+  font-family: "Raleway", sans-serif
+}
+
+.w3-content {
+  max-width : 1400px;
+}
+
+#img_woods,
+#img_bridge,
+#img_avatar_g {
+  width: 100%;
+}
+
+ul.img-collection img {
+  width: 50px;
+}
+
+.unknown {
+  font-family: "Open Sans";
+}
+
+.footer-button-container {
+  display: flex;
+  justify-content: center;
+}
