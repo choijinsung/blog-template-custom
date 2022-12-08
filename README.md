@@ -1,5 +1,6 @@
 # blog-template-custom
 바로가기 : https://dapper-florentine-280757.netlify.app/
+
 변경사항 : 
   1.	가독성을 위해 style에 해당하는 부분을 별도의 css 파일로 이동.
   2.	가독성을 위해 들여쓰기 편집.
